@@ -15,7 +15,7 @@ const SectionOne = () => {
           {JSON.whychooseusdata.map((item, index) => (
             <div key={index} className="card">
               <img
-                src={new URL(item.icon, import.meta.url).href}
+                src={item.icon}
                 alt={item.title}
                 className="icon"
               />

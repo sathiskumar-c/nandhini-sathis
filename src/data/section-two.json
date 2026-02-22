@@ -4,168 +4,168 @@
     {
       "id": "carousel-1",
       "name": "Image 1",
-      "image": "../../images/carousel/1.jpg",
+      "image": "/images/carousel/1.jpg",
       "alt": "Image 1",
       "path": "image-1"
     },
     {
       "id": "carousel-2",
       "name": "Image 2",
-      "image": "../../images/carousel/2.jpg",
+      "image": "/images/carousel/2.jpg",
       "alt": "Image 2",
       "path": "image-2"
     },
     {
       "id": "carousel-3",
       "name": "Image 3",
-      "image": "../../images/carousel/3.jpg",
+      "image": "/images/carousel/3.jpg",
       "alt": "Image 3",
       "path": "image-3"
     },
     {
       "id": "carousel-4",
       "name": "Image 4",
-      "image": "../../images/carousel/4.jpg",
+      "image": "/images/carousel/4.jpg",
       "alt": "Image 4",
       "path": "image-4"
     },
     {
       "id": "carousel-5",
       "name": "Image 5",
-      "image": "../../images/carousel/5.jpg",
+      "image": "/images/carousel/5.jpg",
       "alt": "Image 5",
       "path": "image-5"
     },
     {
       "id": "carousel-6",
       "name": "Image 6",
-      "image": "../../images/carousel/6.jpg",
+      "image": "/images/carousel/6.jpg",
       "alt": "Image 6",
       "path": "image-6"
     },
     {
       "id": "carousel-7",
       "name": "Image 7",
-      "image": "../../images/carousel/7.jpg",
+      "image": "/images/carousel/7.jpg",
       "alt": "Image 7",
       "path": "image-7"
     },
     {
       "id": "carousel-8",
       "name": "Image 8",
-      "image": "../../images/carousel/8.jpg",
+      "image": "/images/carousel/8.jpg",
       "alt": "Image 8",
       "path": "image-8"
     },
     {
       "id": "carousel-9",
       "name": "Image 9",
-      "image": "../../images/carousel/9.jpg",
+      "image": "/images/carousel/9.jpg",
       "alt": "Image 9",
       "path": "image-9"
     },
     {
       "id": "carousel-10",
       "name": "Image 10",
-      "image": "../../images/carousel/10.jpg",
+      "image": "/images/carousel/10.jpg",
       "alt": "Image 10",
       "path": "image-10"
     },
     {
       "id": "carousel-11",
       "name": "Image 11",
-      "image": "../../images/carousel/11.jpg",
+      "image": "/images/carousel/11.jpg",
       "alt": "Image 11",
       "path": "image-11"
     },
     {
       "id": "carousel-12",
       "name": "Image 12",
-      "image": "../../images/carousel/12.jpg",
+      "image": "/images/carousel/12.jpg",
       "alt": "Image 12",
       "path": "image-12"
     },
     {
       "id": "carousel-13",
       "name": "Image 13",
-      "image": "../../images/carousel/13.jpg",
+      "image": "/images/carousel/13.jpg",
       "alt": "Image 13",
       "path": "image-13"
     },
     {
       "id": "carousel-14",
       "name": "Image 14",
-      "image": "../../images/carousel/14.jpg",
+      "image": "/images/carousel/14.jpg",
       "alt": "Image 14",
       "path": "image-14"
     },
     {
       "id": "carousel-15",
       "name": "Image 15",
-      "image": "../../images/carousel/15.jpg",
+      "image": "/images/carousel/15.jpg",
       "alt": "Image 15",
       "path": "image-15"
     },
     {
       "id": "carousel-16",
       "name": "Image 16",
-      "image": "../../images/carousel/16.jpg",
+      "image": "/images/carousel/16.jpg",
       "alt": "Image 16",
       "path": "image-16"
     },
     {
       "id": "carousel-17",
       "name": "Image 17",
-      "image": "../../images/carousel/17.jpg",
+      "image": "/images/carousel/17.jpg",
       "alt": "Image 17",
       "path": "image-17"
     },
     {
       "id": "carousel-18",
       "name": "Image 18",
-      "image": "../../images/carousel/18.jpg",
+      "image": "/images/carousel/18.jpg",
       "alt": "Image 18",
       "path": "image-18"
     },
     {
       "id": "carousel-19",
       "name": "Image 19",
-      "image": "../../images/carousel/19.jpg",
+      "image": "/images/carousel/19.jpg",
       "alt": "Image 19",
       "path": "image-19"
     },
     {
       "id": "carousel-20",
       "name": "Image 20",
-      "image": "../../images/carousel/20.jpg",
+      "image": "/images/carousel/20.jpg",
       "alt": "Image 20",
       "path": "image-20"
     },
     {
       "id": "carousel-21",
       "name": "Image 21",
-      "image": "../../images/carousel/21.jpg",
+      "image": "/images/carousel/21.jpg",
       "alt": "Image 21",
       "path": "image-21"
     },
     {
       "id": "carousel-22",
       "name": "Image 22",
-      "image": "../../images/carousel/22.jpg",
+      "image": "/images/carousel/22.jpg",
       "alt": "Image 22",
       "path": "image-22"
     },
     {
       "id": "carousel-23",
       "name": "Image 23",
-      "image": "../../images/carousel/23.jpg",
+      "image": "/images/carousel/23.jpg",
       "alt": "Image 23",
       "path": "image-23"
     },
     {
       "id": "carousel-24",
       "name": "Image 24",
-      "image": "../../images/carousel/24.jpg",
+      "image": "/images/carousel/24.jpg",
       "alt": "Image 24",
       "path": "image-24"
     },
@@ -173,28 +173,28 @@
       "id": "carousel-25",
       
       "name": "Image 25",
-      "image": "../../images/carousel/25.jpg",
+      "image": "/images/carousel/25.jpg",
       "alt": "Image 25",
       "path": "image-25"
     },
     {
       "id": "carousel-26",
       "name": "Image 26",
-      "image": "../../images/carousel/26.jpg",
+      "image": "/images/carousel/26.jpg",
       "alt": "Image 26",
       "path": "image-26"
     },
     {
       "id": "carousel-27",
       "name": "Image 27",
-      "image": "../../images/carousel/27.jpg",
+      "image": "/images/carousel/27.jpg",
       "alt": "Image 27",
       "path": "image-27"
     },
     {
       "id": "carousel-28",
       "name": "Image 28",
-      "image": "../../images/carousel/28.jpg",
+      "image": "/images/carousel/28.jpg",
       "alt": "Image 28",
       "path": "image-28"
     }

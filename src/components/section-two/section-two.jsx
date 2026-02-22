@@ -29,7 +29,7 @@ const SectionTwo = () => {
             role="listitem"
           >
             <img
-              src={new URL(brand.image, import.meta.url).href}
+              src={brand.image}
               alt={brand.alt || `${brand.name} motorcycle logo`}
               className="brand-img"
               loading="lazy"
