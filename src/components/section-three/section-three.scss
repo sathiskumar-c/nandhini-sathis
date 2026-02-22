@@ -1,0 +1,50 @@
+.birthday-section {
+  padding: 60px 20px;
+  background-color: #fff;
+  color: #333;
+
+  .birthday-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    gap: 40px;
+  }
+
+  .birthday-image {
+    flex: 1 1 300px;
+    img {
+      width: 100%;
+      height: auto;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+  }
+
+  .birthday-text {
+    flex: 2 1 400px;
+    white-space: pre-wrap;
+    line-height: 1.6;
+    font-size: 1rem;
+
+    h1 {
+      margin-bottom: 20px;
+    }
+
+    p {
+      margin-bottom: 1rem;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .birthday-content {
+    flex-direction: column;
+  }
+
+  .birthday-image,
+  .birthday-text {
+    width: 100%;
+  }
+}

@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import VerificationPage from "./VerificationPage";
 import Dashboard from "./Dashboard";
+import "./App.css";
 
 function App() {
   const [isVerified, setIsVerified] = useState(false);

@@ -3,7 +3,6 @@ import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
 import bg from "./images/hand_bg.jpg";
 import angryBg from "./images/angry_s.jpg";
-import name from "./images/name.jpg";
 import successBg from "./images/success.jpg";
 
 function VerificationPage({ setIsVerified }) {
@@ -17,8 +16,8 @@ function VerificationPage({ setIsVerified }) {
   const [showSuccessImage, setShowSuccessImage] = useState(false);
 
   const gfDob = "27-02-2005";
-  const yourDob = "03-04-2000";
-  const anniversary = "27-11-2024";
+  const yourDob = "12-01-2024";
+  const anniversary = "27-11-2023";
 
   // convert Date object into DD-MM-YYYY for comparison
   const formatDate = (date) => {

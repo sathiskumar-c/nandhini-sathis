@@ -73,3 +73,7 @@ button:focus-visible {
 .pointer-cursor button:hover {
   cursor: pointer;
 }
+
+.react-datepicker__navigation button {
+  background-color: black;
+}
