@@ -2,6 +2,7 @@ import { useState } from "react";
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
 import bg from "./images/hand_bg.jpg";
+import bgMob from "./images/hand_bg_mob.jpg";
 import angryBg from "./images/angry_s.jpg";
 import successBg from "./images/success.jpg";
 
@@ -17,7 +18,7 @@ function VerificationPage({ setIsVerified }) {
 
   const gfDob = "27-02-2005";
   const yourDob = "12-01-2024";
-  const anniversary = "27-11-2023";
+  const anniversary = "26-11-2023";
 
   // convert Date object into DD-MM-YYYY for comparison
   const formatDate = (date) => {
@@ -83,9 +84,18 @@ function VerificationPage({ setIsVerified }) {
   });
 
   return (
-    <div style={styles.container} className="pointer-cursor">
+    <div
+      style={styles.container}
+      className="pointer-cursor verification-container"
+    >
       <style>
         {`
+          @media (max-width: 576px) {
+            .verification-container {
+              background-image: url(${bgMob}) !important;
+            }
+          }
+
           .custom-date-input {
             display: block;
             padding: 10px;
